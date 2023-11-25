@@ -1,6 +1,7 @@
-# slugo@ucsd.edu
-## A04: Characterizing Extrachromosomal DNA in Cancer
-## Mentor: Vineet Bafna
+# Sophia Lugo
+## slugo@ucsd.edu
+### A04: Characterizing Extrachromosomal DNA in Cancer
+### Mentor: Vineet Bafna
 
 **What is the most interesting topic covered in your domain this quarter?**
 The general topic on how cancer is characterized in cells has been the most interesting. The idea of ecDNA is a new concept for me and something I find facinating. It gives me new insight into the unknowness of cancer and why it's a difficult problem to conquer. 
