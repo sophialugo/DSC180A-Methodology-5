@@ -7,7 +7,7 @@
 The general topic on how cancer is characterized in cells has been the most interesting. The idea of ecDNA is a new concept for me and something I find facinating. It gives me new insight into the unknowness of cancer and why it's a difficult problem to conquer. 
 
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.** \
-A potential investigation for my quarter 2 project is...
+A potential investigation for my quarter 2 project is measuring the length of the chromosomes in terms of pixels. This hasn't been done yet and gave provide valauble data for cancer research. This is a difficult task because before we can measure, we have to train a model to identify the chromosomes in the images. Our Q1 project can be of help for this initial task. 
 
 **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?** \
 A change I'd make to the approach taken is to experiement with the images before settling on a project. I think get familiar with the images first would've gave is more ideas as to what could be done and would've made us more familiar with the biology knowledge more quickly by being able to visually see it.
